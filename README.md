@@ -74,7 +74,7 @@ d.player Image(dynamically rendered)
  f.No Result
  g.Tie
  h.Total Points
-## Dash Bord Analysis
+
 
 
 
